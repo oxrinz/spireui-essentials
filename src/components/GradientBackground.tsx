@@ -1,5 +1,3 @@
-"use client"
-
 import { Canvas, useFrame } from "@react-three/fiber";
 import * as React from "react"
 import { Vector2, Vector3 } from "three";
