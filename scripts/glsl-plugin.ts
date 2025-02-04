@@ -1,4 +1,3 @@
-// scripts/glslify-plugin.ts
 import { Plugin } from 'esbuild'
 import glslify from 'glslify'
 import fs from 'fs/promises'

@@ -1,2 +1,2 @@
-export * from './components/Button'
-export * from './components/ShaderTest'
+
+export { default as ShaderTest } from './components/ShaderTest'
